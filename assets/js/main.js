@@ -41,7 +41,7 @@
       r: 'https://github.com/sipta-jtk/sipta'
     },
     {
-      g: '劇', t: 'DramaKu', k: 'Full-stack web · 2024', img: 'Dramaku.webp',
+      g: '劇', t: 'DramaKu', k: 'Full-stack web · 2024', img: 'DramaKu.webp',
       d: 'A movie catalogue with search, filters, ratings, reviews and separate roles for admins and users.',
       f: 'My role: full-stack. Authentication, admin CRUD, reviews, rating verification and Jest unit tests.',
       s: [['Laravel', 'laravel'], ['React', 'react'], ['Tailwind CSS', 'tailwindcss'], ['Docker', 'docker']],
