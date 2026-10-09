@@ -37,7 +37,7 @@
       g: '検', t: 'SipTA', k: 'Quality assurance · 2025', img: 'SipTA.png',
       d: 'A platform that tracks a student’s final project from title submission and consultations to the final assessment.',
       f: 'My role: test-case design, user acceptance testing for every module, and documenting bugs for the developers.',
-      s: [['Laravel', 'laravel'], ['PHP', 'php'], ['Docker', 'docker'], ['UAT']],
+      s: [['Laravel', 'laravel'], ['PHP', 'php'], ['Docker', 'docker']],
       r: 'https://github.com/sipta-jtk/sipta'
     },
     {
