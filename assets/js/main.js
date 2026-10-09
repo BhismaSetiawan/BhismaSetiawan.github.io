@@ -27,6 +27,13 @@
   /* projects */
   const P = [
     {
+      g: '数', t: 'Tracer Study', k: 'Full-stack web · Polban', img: 'TracerStudy.png',
+      d: 'A dashboard that merges tracer-study data across years and recommends charts using simple rules.',
+      f: 'My role: full-stack developer, from the API and database to the Vue interface.',
+      s: [['FastAPI', 'fastapi'], ['Vue.js', 'vuejs'], ['PostgreSQL', 'postgresql']],
+      r: null
+    },
+    {
       g: '検', t: 'SipTA', k: 'Quality assurance · 2025', img: 'SipTA.png',
       d: 'A platform that tracks a student’s final project from title submission and consultations to the final assessment.',
       f: 'My role: test-case design, user acceptance testing for every module, and documenting bugs for the developers.',
@@ -46,13 +53,6 @@
       f: 'My role: all game logic, including waves, enemy paths, upgrades and scoring, plus a few 3D models.',
       s: [['Unity', 'unity'], ['C#', 'csharp'], ['Blender', 'blender']],
       r: 'https://github.com/RezaAziiz/TowerDefenseGame'
-    },
-    {
-      g: '数', t: 'Tracer Study', k: 'Full-stack web · Polban', img: 'TracerStudy.png',
-      d: 'A dashboard that merges tracer-study data across years and recommends charts using simple rules.',
-      f: 'My role: full-stack developer, from the API and database to the Vue interface.',
-      s: [['FastAPI', 'fastapi'], ['Vue.js', 'vuejs'], ['PostgreSQL', 'postgresql']],
-      r: null
     }
   ];
 
